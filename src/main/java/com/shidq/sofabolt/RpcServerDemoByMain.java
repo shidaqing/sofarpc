@@ -39,5 +39,6 @@ public class RpcServerDemoByMain {
 
     public static void main(String[] args) {
         new RpcServerDemoByMain();
+
     }
 }
